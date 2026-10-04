@@ -9,6 +9,7 @@ An academic and researcher portfolio website for **Dr. Anu Mohan**, Assistant Pr
 - **Registered Copyright:** MACS (*Measure of Alternative Care and Support among Older Adults* - Reg No: `L-159756/2025`)
 - **Key Qualifications:** Ph.D. in Public Health (MAHE), MSW First Rank & Best Outgoing Student (Rajagiri), UGC-NET & JRF, Kerala SET in Social Work, B.Sc. Physics (Overall A+).
 - **Trainer Portfolio:** Competitive exam training for UGC NET-JRF/SET and Kerala PSC (ICDS Supervisor, DCPO, Prison Officer); Research methodology capacity building (proposal writing, scoping/systematic reviews, data analysis in Jamovi/SPSS/R/NVivo).
+- **Instagram:** [@dr_anu_mohan_](https://www.instagram.com/dr_anu_mohan_/)
 
 ---
 
